@@ -12,7 +12,7 @@ Der Zweck dieses Dokuments ist es, die wesentlichen Bedarfe und Funktionalitäte
 Der Zweck dieses Dokuments ist es, die wesentlichen Anforderungen an das System aus Sicht und mit den Begriffen der künftigen Anwender zu beschreiben.
 
 === Gültigkeitsbereich (Scope)
-Dieses Visions-Dokument bezieht sich auf das System Liefer Colada, das vom Team 3Promille entwickelt wird. Das System wird es Barbesitzer erlauben, unseren Online-Shop zu nutzen, um damit jeden Cocktaillieberhaber zu erreichen, den Zugang zu den Cocktails zu erleichtern und eigene Cocktailkrationen zu ermöglichen. 
+Dieses Visions-Dokument bezieht sich auf das System Liefer Colada, das vom Team 3Promille entwickelt wird. Das System wird dem Barbesitzer erlauben, unseren Online-Shop zu nutzen, um damit jeden Cocktaillieberhaber zu erreichen, den Zugang zu den Cocktails zu erleichtern und eigene Cocktailkrationen zu ermöglichen. 
 
 === Definitionen, Akronyme und Abkürzungen
 //Verweis passend zum Belegabgabe-Template se1_belegabgabe_t00.adoc
@@ -35,10 +35,10 @@ Siehe <<#glossary, Glossar>>.
 [cols="1,3"]
 |===
 | Für | die kleine Bar
-| der / die | Cocktails auch online verschicken mag
+| die | Cocktails auch online verschicken mag
 | ist das  | Liefer Colada
 | ein  | Onlineshop
-| der / die | das Barfeeling für zu Hause bietet und Kriesenschtz
+| der | das Barfeeling für zu Hause bietet und Kriesenschtz
 | anders als | nur Lokalverkauf
 | kann unser Produkt | jeden erreichen
 |===
@@ -68,17 +68,33 @@ Siehe <<#glossary, Glossar>>.
 | [Kurze Beschreibung des Stakeholders und seiner Ziele]
 | [Fassen Sie die wesentlichen Verantwortlichkeiten des Stakeholder mit Bezug auf das zu entwickelnde System kurz zusammen, d.h. ihr besonderen Interessen. Beispiele: Dieser Stakeholder sorgt dafür, dass das System gewartet wird / dass die angezeigten Daten aktuell sind / überwacht den Projektfortschritt / usw.]
 
-| Kunden
+| Kunden / Barbetreiber
 | Inhaber der kleinen Bar und er möchte seine Cocktails außerhalb der Bar zum Verkauf haben
-| gibt uns Vorgaben für das System und finanziert uns
+| beauftrag Entwicklung, gibt uns Vorgaben für das System und finanziert uns
 
-| Nutzer
+| Nutzer 
 | will auch außerhalb der Bar seine lieblingscocktail trinken und eigene Kreationen kreieren
 | benutzt das System und will das System einfach verstehen
 
+| Projektteam
+| 
+| entwickeln der Webseite
+
 | Gesetzgeber
 | nervt
-| gibt rechtliche Rahmenbedingungen vor, überprüft den AGB, Datenschutz und Datensicherheit
+| gibt rechtliche Rahmenbedingungen vor, überprüft den AGB, Jugendschutz, Datenschutz und Datensicherheit
+
+| Lieferant
+| liefert Cocktails
+| nutzt Daten zur Auslieferung
+
+| Mitarbeiter
+| 
+| Cocktails herstellen
+
+| Zahlungsdienstleister
+| 
+| Schnittstelle festlegen und Preis beeinflussen
 
 |===
 
